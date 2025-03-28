@@ -1,5 +1,11 @@
+"""
+CalculadoraMCM calcula el minimo comun multipo
+
+"""
 class CalculadoraMCM:
+    """Constructor de la clase"""
     def __init__(self):
+
         pass
 
     def calcular_mcd(self, a, b):
